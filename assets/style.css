@@ -1,0 +1,42 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+    background-image: url(background_1.png);
+}
+body a img {
+    float: none;
+    padding-top: 0px;
+}
+body img {
+    float: right;
+}
+.ps5bubble {
+    padding-top: 95px;
+    margin-top: 0px;
+    float: right;
+}
+
+.ps4bubble {
+    clear: right;
+    float: right;
+    padding-top: 15px;
+}
+.ps4bubblebeta {
+    clear: right;
+    float: right;
+    padding-top: 0px;
+    margin-top: -2px;
+    padding-right: 0px;
+}
+#Credits {
+    color: #FFFFFF;
+    font-size: large;
+    text-shadow: -1px -1px #777777;
+    font-style: italic;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: normal;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    text-indent: 0px;
+}
